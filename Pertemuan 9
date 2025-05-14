@@ -1,4 +1,3 @@
-A <- c(10,20,30,40,50)
-C <- A+B
-X = rnorm(100)
-hist(x)
+data(BOD)
+summary(BOD)
+str(BOD)
