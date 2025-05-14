@@ -1,3 +1,4 @@
 data(BOD)
 summary(BOD)
 str(BOD)
+X <- c(90)
